@@ -1,0 +1,122 @@
+
+
+html ,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #565a5c;
+}
+
+
+p{
+    margin: 0;
+    color: #999;
+    font-size: 2.5vw;
+
+}
+
+ul, ol{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-size: 6vw;
+}
+
+
+header{
+    padding: 30px;
+    border-bottom: 1px solid #eee;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+
+.title h1{
+    font-size: 7vw;
+    text-align: center;
+    padding: 40px;
+
+}
+
+
+
+#title-text p{
+    font-size: 2.5vw;
+    padding: 0 30px;
+    text-align: left;
+    word-spacing: 5px;
+    line-height: 1.6em;
+}
+
+
+
+#links{
+    padding: 20px;
+}
+
+
+
+#links ul li{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 40px;
+    border: 1px solid #999;
+    cursor: pointer;
+    display: block;
+
+}
+
+
+#links ul li a{
+    font-size: 2.5vw;
+    color: #999;
+
+}
+
+
+
+
+
+/*///////////////////////////////////////////////////////////////////
+                                Mockup 2
+///////////////////////////////////////////////////////////////////*/
+
+.steps{
+    padding: 20px;
+}
+
+
+.steps p{
+    font-size: 3.4vw;
+    padding:  20px 0;
+}
+
+#video-about{
+    padding: 20px;
+}
+
+
+
+/*///////////////////////////////////////////////////////////////////
+                                Mockup 3
+///////////////////////////////////////////////////////////////////*/
+
+
+#about-product{
+    padding: 40px;
+}
+
+
+
+#about-product h2{
+    font-size: 6vw;
+    padding: 40px 0;
+}
+
+
+
+
